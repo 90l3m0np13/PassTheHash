@@ -12,8 +12,8 @@ Este repositorio explica cómo utilizar **Pass The Hash (PtH)** para acceder a r
 2. [Usar pth-smbclient en Kali Linux](pth-smbclient-kali.md)
 
 ## Scripts
-- [Script de PowerShell para extraer hashes con Mimikatz](scripts/mimikatz-extract-hash.ps1)
-- [Script de ejemplo para usar pth-smbclient](scripts/pth-smbclient-example.sh)
+- [Script de PowerShell para extraer hashes con Mimikatz](Scripts/mimikatz-extract-hash.ps1)
+- [Script de ejemplo para usar pth-smbclient](Scripts/pth-smbclient-example.sh)
 
 ## Contribuciones
 Si encuentras algún error o tienes sugerencias, ¡no dudes en abrir un issue o enviar un pull request!
