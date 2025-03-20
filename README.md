@@ -7,10 +7,6 @@ Este repositorio explica cómo utilizar **Pass The Hash (PtH)** para acceder a r
 - Una máquina Kali Linux con `pth-toolkit` instalado.
 - Conocimientos básicos de PowerShell y Linux.
 
-## Guías
-1. [Extraer el hash NTLM en Windows](extract-hash-windows.md)
-2. [Usar pth-smbclient en Kali Linux](pth-smbclient-kali.md)
-
 ## Scripts
 - [Script de PowerShell para extraer hashes con Mimikatz](Scripts/mimikatz-extract-hash.ps1)
 - [Script de ejemplo para usar pth-smbclient](Scripts/pth-smbclient-example.sh)
