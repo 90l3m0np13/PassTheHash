@@ -2,6 +2,8 @@
 
 Este repositorio explica cómo utilizar **Pass The Hash (PtH)** para acceder a recursos compartidos SMB en un servidor Windows, extrayendo el hash NTLM desde un equipo Windows y utilizando `pth-smbclient` en una máquina Kali Linux.
 
+![imagen](https://github.com/90l3m0np13/PassTheHash/blob/main/Imagenes/Portada.jpeg)
+
 ## Requisitos
 - Acceso a un equipo Windows con privilegios de administrador.
 - Una máquina Kali Linux con `pth-toolkit` instalado.
