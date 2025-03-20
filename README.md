@@ -23,7 +23,7 @@ Si encuentras algún error o tienes sugerencias, ¡no dudes en abrir un issue o 
 ### **2. extract-hash-windows.md**
 Guía detallada para extraer el hash NTLM en Windows usando Mimikatz.
 
-```markdown
+
 # Extraer el hash NTLM en Windows
 
 ## Requisitos
@@ -56,16 +56,16 @@ Guía detallada para extraer el hash NTLM en Windows usando Mimikatz.
 4. **Guardar el hash:**
    - Anota el hash NTLM para usarlo en Kali Linux.
 
-## Ejemplo de salida de Mimikatz
-![Mimikatz Output](images/mimikatz-output.png)
-```
+
+![imagen](https://github.com/90l3m0np13/PassTheHash/blob/main/Imagenes/mimikatz.png)
+
 
 ---
 
 ### **3. pth-smbclient-kali.md**
 Guía para usar `pth-smbclient` en Kali Linux.
 
-```markdown
+
 # Usar pth-smbclient en Kali Linux
 
 ## Requisitos
@@ -95,4 +95,6 @@ Guía para usar `pth-smbclient` en Kali Linux.
    - Usa comandos como `ls`, `cd`, y `get` para explorar y descargar archivos.
 
 ## Ejemplo de salida de pth-smbclient
-![pth-smbclient Output](images/pth-smbclient-output.png)
+![imagen](https://github.com/90l3m0np13/PassTheHash/blob/main/Imagenes/pth-smbclient.png)
+
+
